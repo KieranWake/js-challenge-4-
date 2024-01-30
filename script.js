@@ -3,4 +3,4 @@ const b = 2;
 
 const resultShift = a << b; 
 
-
+console.log(resultShift); 
