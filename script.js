@@ -8,3 +8,8 @@ console.log(resultShift);
 const resultMultiplication = a * Math.pow(2, b); 
 
 console.log(resultMultiplication); 
+
+function shiftToLeft(x, y) {
+    
+	
+}
