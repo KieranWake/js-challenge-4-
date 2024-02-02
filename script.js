@@ -1,15 +1,8 @@
-const a = 5; 
-const b = 2; 
+function shiftToLeft(x, y) {
+    const resultOne = x; 
+    const resultTwo = y;
 
-const resultShift = a << b; 
-
-console.log(resultShift); 
-
-const resultMultiplication = a * Math.pow(2, b); 
+    const resultMultiplication = x * Math.pow(x, y); 
+}
 
 console.log(resultMultiplication); 
-
-function shiftToLeft(x, y) {
-    
-	
-}
