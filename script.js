@@ -5,4 +5,4 @@ function shiftToLeft(x, y) {
     const resultMultiplication = x * Math.pow(x, y); 
 }
 
-console.log(resultMultiplication); 
+console.log(shiftToLeft(resultMultiplication)); 
