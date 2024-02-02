@@ -5,6 +5,6 @@ function shiftToLeft(x, y) {
     return resultOne * Math.pow(2, resultTwo);
 }
 
-console.log(shiftToLeft); 
+ 
 
  
