@@ -1,8 +1,10 @@
 function shiftToLeft(x, y) {
-    const resultOne = x; 
-    const resultTwo = y;
+    const resultOne = 5; 
+    const resultTwo = 2;
 
-    const resultMultiplication = x * Math.pow(x, y); 
+    return resultOne * Math.pow(2, resultTwo);
 }
 
-console.log(shiftToLeft(resultMultiplication)); 
+console.log(shiftToLeft); 
+
+ 
