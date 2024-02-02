@@ -1,9 +1,11 @@
 function shiftToLeft(x, y) {
-    const resultOne = 5; 
-    const resultTwo = 2;
+    const resultOne = x; 
+    const resultTwo = y;
 
     return resultOne * Math.pow(2, resultTwo);
 }
+
+
 
  
 
